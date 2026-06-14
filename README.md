@@ -1,14 +1,14 @@
 # Hi there, I'm Dhanush S! 👋
 
-An aspiring **Java Backend Developer** and Information Science & Engineering student passionate about building structured, scalable web applications and solving real-world challenges through robust backend software development.
+An aspiring **Java Backend Developer** and Information Science & Engineering student passionate about building structured, secure, and scalable database-driven web applications.
 
 ---
 
 ### 🚀 About Me
 - 🎓 **Education:** Pursuing Bachelor of Engineering (B.E.) in Information Science & Engineering at **PES College of Engineering, Mandya** (2023 — 2027).
 - 💼 **Experience:** Former *RPA Developer Intern* at Employability.life, optimizing business tasks and automating workflows using algorithmic logic.
-- 🛠️ **Current Focus:** Deep diving into advanced Java backend architectures, relational databases, and enterprise frameworks.
-- 🎯 **Goal:** Building efficient, high-performance APIs and microservices.
+- 🛠️ **Current Focus:** Deep diving into advanced Java backend architectures, relational databases, enterprise frameworks, and secure API design.
+- 🎯 **Goal:** Designing and optimizing efficient, secure enterprise data layers and server-side applications.
 
 ---
 
@@ -18,20 +18,30 @@ An aspiring **Java Backend Developer** and Information Science & Engineering stu
 | :--- | :--- |
 | **Languages** | Java (Core & Advanced), C, SQL |
 | **Frameworks & ORM** | Spring Boot, Spring MVC, Spring Data JPA, Hibernate ORM |
-| **Databases & Tools** | MySQL, JDBC, Maven, Git, GitHub |
-| **Core Concepts** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP) |
+| **Databases & Connectivity** | MySQL, JDBC (Statement, PreparedStatement, CallableStatement) |
+| **Build Tools & Versioning** | Maven (Web Archetype, Quickstart), Git, GitHub |
+| **Core Concepts** | Data Structures & Algorithms (DSA), OOP, Transaction Management, Database CRUD |
 
 ---
 
-### 📁 Featured Projects
+### 📁 Featured Backend Projects
 
-📂 **Shopping Cart Backend System** *Built using Java, Collection Framework, and OOP principles.* - Implemented dynamic CRUD APIs for seamless product management, real-time data input, and safe status updates.
+📂 **Dynamic Java Web Application (Maven Architecture)**
+*Developed using the Maven Web Application Archetype, Servlets, JSP, and MySQL*
+- Designed and structured a dynamic web application following modular enterprise project patterns.
+- Leveraged **Java Servlets** and **JSP** to process server-side logic and handle client-server communication effectively.
+- Streamlined project dependencies, builds, and compilation workflows using **Maven Lifecycle Management**.
 
-📂 **Library Management System** *Engineered to securely manage book entries, member logs, and borrowing workflows.* - Utilized advanced Java data collections and persistent file-handling structures to safeguard absolute data integrity.
+📂 **Database Transaction & Secure CRUD Engine**
+*An advanced database connectivity suite utilizing JDBC, MySQL, and Java SE*
+- **Secure Data Mapping:** Implemented optimized database connectivity models using JDBC `PreparedStatement` to prevent SQL Injection vulnerabilities and enforce safe data manipulation.
+- **Transaction Management & Data Integrity:** Developed a transaction system utilizing manual transaction blocks (`commit` / `rollback`) to manage database updates atomically and maintain absolute data integrity during failures.
+- **Stored Procedures Execution:** Programmed custom database communication modules leveraging `CallableStatement` to trigger compiled MySQL Stored Procedures for complex conditional data filtering.
+- **Enterprise CRUD Orchestration:** Designed a standalone management engine (Car Records Fleet Engine) featuring complete Create, Read, Update, and Delete functionalities backed by an optimized relational schema.
 
-📂 **Browser History Simulation** *Architected an operations simulation mimicking native web browser page transitions.* - Created custom sequential linear data structures to precisely transition navigation states (forward tracking/caching) and minimize retrieval latencies.
-
-📂 **Coffee Ordering System** *Programmed a functional core module to completely automate item selection criteria.* - Designed automated workflows handling precise specifications and instant, error-free billing generation.
+📂 **Shopping Cart Backend System** 
+*Built using Java, Collection Framework, and OOP principles*
+- Implemented dynamic CRUD APIs for seamless product management, real-time data input, and safe status updates.
 
 ---
 
@@ -41,4 +51,4 @@ An aspiring **Java Backend Developer** and Information Science & Engineering stu
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushshivaram479@gmail.com)
 
 ---
-*⚡ "Mapping complex real-world logic into clean, structured, object-oriented code."*
+*⚡ "Mapping complex business transactions into clean, optimized, and highly secure database layers."*
